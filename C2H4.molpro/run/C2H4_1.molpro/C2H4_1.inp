@@ -1,0 +1,16 @@
+
+
+angstrom
+
+geometry={
+C1;C2,C1,1.33117445;H11,C1,1.08089487,C2,121.44926360;H12,C1,1.08089487,C2,121.44926360,H11,180;H21,C2,1.08089487,C1,121.44926360,H11,0;H22,C2,1.08089487,C1,121.44926360,H12,0
+}
+basis=aug-cc-pvtz
+
+
+
+hf; locali,pipek;mp2
+
+
+put,xml
+{put,xml;noorbitals,nobasis}

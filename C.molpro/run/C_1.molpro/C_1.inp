@@ -1,0 +1,16 @@
+
+
+angstrom
+
+geometry={
+C
+}
+basis=aug-cc-pvtz
+
+
+spin=2
+hf; locali,pipek;mp2
+
+
+put,xml
+{put,xml;noorbitals,nobasis}
